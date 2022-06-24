@@ -1,0 +1,3 @@
+F:\hundsun-hankoubank-study\gitclone
+Git is a version control system.
+Git is free software.
